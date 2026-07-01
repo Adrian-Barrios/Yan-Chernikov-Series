@@ -3,9 +3,10 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="01_TestingFunctionality/01_TestingFunctionality.vcxproj" />
-  <Project Path="02_CompilerBasics/02_CompilerBasics.vcxproj" />
-  <Project Path="03_LinkerBasics/03_LinkerBasics.vcxproj" />
-  <Project Path="04_Debugging/04_Debugging.vcxproj" />
-  <Project Path="05_ConfiguringMicrosoftVS/05_ConfiguringMicrosoftVS.vcxproj" />
+  <Project Path="01_TestingFunctionality/01_TestingFunctionality.vcxproj" Id="2655ac28-321b-4c70-a375-8f2ca7491f00" />
+  <Project Path="02_CompilerBasics/02_CompilerBasics.vcxproj" Id="faddb696-4a3f-4886-a053-ff5e3f26ef93" />
+  <Project Path="03_LinkerBasics/03_LinkerBasics.vcxproj" Id="da116047-6f46-46a6-a037-cae5c35fb30b" />
+  <Project Path="04_Debugging/04_Debugging.vcxproj" Id="9fefea88-95ba-42aa-9d23-1d29775158ac" />
+  <Project Path="05_ConfiguringMicrosoftVS/05_ConfiguringMicrosoftVS.vcxproj" Id="ebee1cf3-d387-4909-8596-e1ced063b2d2" />
+  <Project Path="06_Pointer/06_Pointer.vcxproj" Id="cb893952-0132-463c-9bbe-c0634b6104ab" />
 </Solution>
