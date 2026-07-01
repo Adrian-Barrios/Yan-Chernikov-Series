@@ -1,22 +1,24 @@
 #include <iostream>
 #include "Log.h"
 
-static int Multiply(int a, int b)
-{
-	Log("Multiply");
-	return a * b;
-}
+static int r = 10;
 
 int main()
 {
-	std::cout << Multiply(2, 3) << std::endl;
+	int a = 8;
+	a++;
+	const char* string = "Hello";
+
+	for (int i = 0; i < 5; ++i)
+	{
+		const char c = string[i];
+		std::cout << c << std::endl;
+	}
+
+	Log("Debugging");
+	std::cin.get();
 }
 
 /*
-
- CTRL + F7 only compiles, does not link.
- CTRL + F5 both compiles and links, and also executes.
- Static means that the function is only declared for this translation unit. Meaning we are not using it elsewhere other
- than this file
-
+F9 sets a breakpoint in the line you are currently on.
  */
