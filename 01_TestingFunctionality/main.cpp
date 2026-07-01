@@ -4,9 +4,14 @@ using std::cout;
 using std::endl;
 using std::cin;
 
+void Log(const char* message)
+{
+	cout << message << endl;
+}
+
 int main()
 {
-	cout << "Running test" << endl;
+	Log("Running test");
 	cin.get();
 	return 0;
 }
