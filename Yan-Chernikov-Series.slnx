@@ -7,4 +7,5 @@
   <Project Path="02_CompilerBasics/02_CompilerBasics.vcxproj" />
   <Project Path="03_LinkerBasics/03_LinkerBasics.vcxproj" />
   <Project Path="04_Debugging/04_Debugging.vcxproj" />
+  <Project Path="05_ConfiguringMicrosoftVS/05_ConfiguringMicrosoftVS.vcxproj" />
 </Solution>
