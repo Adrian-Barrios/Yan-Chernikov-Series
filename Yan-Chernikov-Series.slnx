@@ -9,4 +9,5 @@
   <Project Path="04_Debugging/04_Debugging.vcxproj" Id="9fefea88-95ba-42aa-9d23-1d29775158ac" />
   <Project Path="05_ConfiguringMicrosoftVS/05_ConfiguringMicrosoftVS.vcxproj" Id="ebee1cf3-d387-4909-8596-e1ced063b2d2" />
   <Project Path="06_Pointer/06_Pointer.vcxproj" Id="cb893952-0132-463c-9bbe-c0634b6104ab" />
+  <Project Path="07_Referencesw/07_Referencesw.vcxproj" Id="e5d25cd4-80d3-4266-a8c1-af1a53a6ac32" />
 </Solution>
