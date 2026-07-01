@@ -4,4 +4,5 @@
     <Platform Name="x86" />
   </Configurations>
   <Project Path="01_TestingFunctionality/01_TestingFunctionality.vcxproj" />
+  <Project Path="02_CompilerBasics/02_CompilerBasics.vcxproj" />
 </Solution>

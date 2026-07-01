@@ -12,3 +12,5 @@ int main()
 	cin.get();
 	return 0;
 }
+
+// The preprocessor opens iostream, reads the file, and copies its content into this file.
