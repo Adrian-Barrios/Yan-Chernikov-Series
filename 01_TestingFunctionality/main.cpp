@@ -4,10 +4,7 @@ using std::cout;
 using std::endl;
 using std::cin;
 
-void Log(const char* message)
-{
-	cout << message << endl;
-}
+void Log(const char* message);
 
 int main()
 {
