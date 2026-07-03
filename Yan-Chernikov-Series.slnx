@@ -11,4 +11,5 @@
   <Project Path="06_Pointer/06_Pointer.vcxproj" Id="cb893952-0132-463c-9bbe-c0634b6104ab" />
   <Project Path="07_Referencesw/07_Referencesw.vcxproj" Id="e5d25cd4-80d3-4266-a8c1-af1a53a6ac32" />
   <Project Path="08_Classes/08_Classes.vcxproj" Id="9d10963c-38b1-4eb9-9a8d-b84dbed7921b" />
+  <Project Path="09_Static/09_Static.vcxproj" Id="d911b5a8-74c0-4b05-839b-7a15ea36f2a5" />
 </Solution>
