@@ -13,5 +13,6 @@
   <Project Path="08_Classes/08_Classes.vcxproj" Id="9d10963c-38b1-4eb9-9a8d-b84dbed7921b" />
   <Project Path="09_Static/09_Static.vcxproj" Id="d911b5a8-74c0-4b05-839b-7a15ea36f2a5" />
   <Project Path="10_StaticClasses/10_StaticClasses.vcxproj" Id="85558c8d-d5b7-4073-9178-9d4afde7c09d" />
+  <Project Path="12_VirtualFunctions/12_VirtualFunctions.vcxproj" Id="f682d84a-65f9-4628-993b-c4f482b6fb37" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
