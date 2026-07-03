@@ -33,7 +33,7 @@ public:
 int main()
 {
 	Log log;
-	log.SetLevel(LogLevelWarning);
+	log.SetLevel(2);
 	log.Warn("Hello");
 	std::cin.get();
 
