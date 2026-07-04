@@ -17,5 +17,6 @@
   <Project Path="13_PureVirtualFunctions/13_PureVirtualFunctions.vcxproj" Id="babed3ea-63a4-4045-a91a-034294f360b9" />
   <Project Path="14_Visibility/14_Visibility.vcxproj" Id="34fd9b51-04c6-43d9-a830-201972a81264" />
   <Project Path="15_Arrays/15_Arrays.vcxproj" Id="3bdbaeb1-5bb8-4b8b-9ec8-465900bcdfe2" />
+  <Project Path="16_Strings/16_Strings.vcxproj" Id="5b74792b-7e01-4f37-b516-ee223089dfd0" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
