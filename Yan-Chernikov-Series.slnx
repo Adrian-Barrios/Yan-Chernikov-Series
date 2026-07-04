@@ -19,5 +19,6 @@
   <Project Path="15_Arrays/15_Arrays.vcxproj" Id="3bdbaeb1-5bb8-4b8b-9ec8-465900bcdfe2" />
   <Project Path="16_Strings/16_Strings.vcxproj" Id="5b74792b-7e01-4f37-b516-ee223089dfd0" />
   <Project Path="17_PaddingAndAlignment/17_PaddingAndAlignment.vcxproj" Id="a53454b8-3106-4be6-9427-15518f497d11" />
+  <Project Path="18_MutableKeyword/18_MutableKeyword.vcxproj" Id="222fbdb7-e046-4a50-bafa-fdf66c1aec5c" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
