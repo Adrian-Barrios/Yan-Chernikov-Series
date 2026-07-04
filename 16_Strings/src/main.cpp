@@ -30,5 +30,6 @@ int main()
 	// Array Representation
 
 	char MY_NAME_2[6] = { 'H', 'e', 'l', 'l', 'o', '\0'}; // We need this null terminator explicitly declared if we do things this way.
+	std::cout << strlen(MY_NAME_2) << std::endl; // Will be 5, length is not the same as size.
 	std::cout << MY_NAME_2 << std::endl;
 }
