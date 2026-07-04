@@ -33,11 +33,10 @@ void Print(Printables* obj)
 
 int main()
 {
-	Parent* p = new Parent();
-	std::cout << p->GetClassName() << std::endl;
-
 	Child* c = new Child("Adrian");
 	std::cout << c->GetName() << std::endl;
 
 	Print(c);
 }
+
+// You cannot create objects of a class that contains pure virtual functions.
