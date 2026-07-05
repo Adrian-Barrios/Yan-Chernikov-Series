@@ -27,5 +27,6 @@
   <Project Path="23_CopyingAndCopyConstructors/23_CopyingAndCopyConstructors.vcxproj" Id="4bcd0824-6c96-438f-a346-b75032fa7661" />
   <Project Path="24_DynamicArraysStdVector/24_DynamicArraysStdVector.vcxproj" Id="1f42e782-1f81-4a4c-b392-a435bddd51bf" />
   <Project Path="25_LocalStatic/25_LocalStatic.vcxproj" Id="00ede45e-dccb-4d39-9131-77e073fa57c7" />
+  <Project Path="26_StaticLinkingBinaries/26_StaticLinkingBinaries.vcxproj" Id="d2ccf5a3-295c-4ffa-8434-170ef532b9d6" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
