@@ -22,5 +22,6 @@
   <Project Path="18_MutableKeyword/18_MutableKeyword.vcxproj" Id="222fbdb7-e046-4a50-bafa-fdf66c1aec5c" />
   <Project Path="19_MemberInitializerLists/19_MemberInitializerLists.vcxproj" Id="f9e63ea0-18ee-4c9d-9b85-90e36de31685" />
   <Project Path="20_ImplicitAndExplicit/20_ImplicitAndExplicit.vcxproj" Id="15bc81a8-26c4-432f-89b9-7e3ae7eaeb3c" />
+  <Project Path="21_OperatorOverloading/21_OperatorOverloading.vcxproj" Id="a7d1722a-3409-470a-8513-1f0762d18bfe" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>

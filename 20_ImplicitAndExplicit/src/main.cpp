@@ -23,7 +23,6 @@ public:
 	explicit ExplicitEntity(int age) :m_Name("Unknown"), m_Age(age) {}
 };
 
-
 void PrintEntity(const Entity& entity)
 {
 
