@@ -24,5 +24,6 @@
   <Project Path="20_ImplicitAndExplicit/20_ImplicitAndExplicit.vcxproj" Id="15bc81a8-26c4-432f-89b9-7e3ae7eaeb3c" />
   <Project Path="21_OperatorOverloading/21_OperatorOverloading.vcxproj" Id="a7d1722a-3409-470a-8513-1f0762d18bfe" />
   <Project Path="22_SmartPointers/22_SmartPointers.vcxproj" Id="8cf6837d-6e83-4557-b821-b55e22a2ea47" />
+  <Project Path="23_CopyingAndCopyConstructors/23_CopyingAndCopyConstructors.vcxproj" Id="4bcd0824-6c96-438f-a346-b75032fa7661" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
