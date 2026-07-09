@@ -31,5 +31,6 @@
   <Project Path="27_MultipleReturnValuesWithTuples/27_MultipleReturnValuesWithTuples.vcxproj" Id="67ab6c46-c3f7-497a-a90c-ad713de38ff9" />
   <Project Path="28_Templates/28_Templates.vcxproj" Id="efe961f0-4fd8-425d-9d77-b668b411e26f" />
   <Project Path="29_StackAndHeap/29_StackAndHeap.vcxproj" Id="b5a3adc4-64bc-47a9-b4fa-a55ec6484053" />
+  <Project Path="30_CallStack/30_CallStack.vcxproj" Id="e69cd91c-5cdd-4af4-b4d3-6fef9ead8fb8" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
