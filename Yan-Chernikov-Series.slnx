@@ -35,5 +35,6 @@
   <Project Path="31_Macros/31_Macros.vcxproj" Id="5b397097-9aaf-4cd5-a24d-5498223e30e4" />
   <Project Path="32_AutoKeyword/32_AutoKeyword.vcxproj" Id="78d17a9c-ffb9-47cb-aaa9-6011508892c9" />
   <Project Path="33_FunctionPointers/33_FunctionPointers.vcxproj" Id="58c80b4b-3188-49a1-805b-a1b9176a70f2" />
+  <Project Path="34_Lambdas/34_Lambdas.vcxproj" Id="48b05ba1-34bf-48ab-aa77-d22c2e36e18e" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
