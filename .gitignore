@@ -361,3 +361,7 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/44_ConditionalActionBreakpoints/src/main.cpp
+/44_ConditionalActionBreakpoints/44_ConditionalActionBreakpoints.vcxproj.filters
+/.vs/Yan-Chernikov-Series.slnx/v18/Browse.VC.db
+/.gitignore
