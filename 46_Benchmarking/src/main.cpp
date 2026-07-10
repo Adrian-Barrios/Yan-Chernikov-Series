@@ -1,6 +1,8 @@
 #include <iostream>
 #include <memory>
 #include <chrono>
+#include <array>
+
 class Timer
 {
 public:
@@ -28,6 +30,11 @@ private:
 	std::chrono::time_point<std::chrono::high_resolution_clock> m_StartTimePoint;
 };
 
+struct Vector2
+{
+	float x, y;
+};
+
 int main()
 {
 	int value = 0;
@@ -40,6 +47,32 @@ int main()
 	}
 	std::cout << value << std::endl;
 
-	__debugbreak();
+	std::cout << "Make shared" << std::endl;
+	{
+		std::array<std::shared_ptr<Vector2>, 100> sharedPtrs;
+		Timer timer;
+		for (int i = 0; i < sharedPtrs.size(); i++)
+		{
+			sharedPtrs[i] = std::make_shared<Vector2>();
+		}
+	}
+	std::cout << "New shared" << std::endl;
+	{
+		std::array<std::shared_ptr<Vector2>, 100> sharedPtrs;
+		Timer timer;
+		for (int i = 0; i < sharedPtrs.size(); i++)
+		{
+			sharedPtrs[i] = std::shared_ptr<Vector2>(new Vector2());
+		}
+	}
+	std::cout << "Make unique" << std::endl;
+	{
+		std::array<std::unique_ptr<Vector2>, 100> sharedPtrs;
+		Timer timer;
+		for (int i = 0; i < sharedPtrs.size(); i++)
+		{
+			sharedPtrs[i] = std::make_unique<Vector2>();
+		}
+	}
 
 }
