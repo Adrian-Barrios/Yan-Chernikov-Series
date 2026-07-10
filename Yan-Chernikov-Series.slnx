@@ -41,5 +41,6 @@
   <Project Path="37_InputBuffer/37_InputBuffer.vcxproj" Id="34868fc6-2ed2-454f-9653-de563ffe18e1" />
   <Project Path="38_MultidimensionalArrays/38_MultidimensionalArrays.vcxproj" Id="c57264ee-cf33-4dc4-8c6b-0d2d5233cc2e" />
   <Project Path="39_Sorting/39_Sorting.vcxproj" Id="16f06313-b8fc-48e8-bb02-bb539a7d3bd7" />
+  <Project Path="40_TypePunning/40_TypePunning.vcxproj" Id="6c5a2674-130a-4df3-9764-d29cccc6fcb7" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
