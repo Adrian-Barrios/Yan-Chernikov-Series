@@ -38,5 +38,6 @@
   <Project Path="34_Lambdas/34_Lambdas.vcxproj" Id="48b05ba1-34bf-48ab-aa77-d22c2e36e18e" />
   <Project Path="35_Threads/35_Threads.vcxproj" Id="f3bbae69-94c2-4610-a301-5e502528819c" />
   <Project Path="36_Timing/36_Timing.vcxproj" Id="8305cb83-4dbe-4522-8c87-2670f0577275" />
+  <Project Path="37_InputBuffer/37_InputBuffer.vcxproj" Id="34868fc6-2ed2-454f-9653-de563ffe18e1" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
