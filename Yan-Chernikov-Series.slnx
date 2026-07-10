@@ -47,5 +47,6 @@
   <Project Path="43_Casting/43_Casting.vcxproj" Id="9ef81e58-6747-4959-96cf-ee18d5eb772a" />
   <Project Path="44_PrecompiledHeaders/44_PrecompiledHeaders.vcxproj" Id="c0bdd362-9d72-48e8-bd02-abb50dd1c22d" />
   <Project Path="45_DynamicCasting/45_DynamicCasting.vcxproj" Id="1e957195-be53-4eed-80cd-da63a884cc1e" />
+  <Project Path="46_Benchmarking/46_Benchmarking.vcxproj" Id="a8bccd8e-96c4-42d9-b2b9-7d89aa5a40f4" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
