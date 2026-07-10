@@ -49,5 +49,6 @@
   <Project Path="45_DynamicCasting/45_DynamicCasting.vcxproj" Id="1e957195-be53-4eed-80cd-da63a884cc1e" />
   <Project Path="46_Benchmarking/46_Benchmarking.vcxproj" Id="a8bccd8e-96c4-42d9-b2b9-7d89aa5a40f4" />
   <Project Path="46_StructuredBindings/46_StructuredBindings.vcxproj" Id="e5e30137-2462-4d03-bf6e-bbb08d7e90bc" />
+  <Project Path="47_Optional/47_Optional.vcxproj" Id="50a8d20a-576a-463c-a6bc-765e4870bd7c" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
