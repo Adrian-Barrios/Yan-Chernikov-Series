@@ -44,5 +44,6 @@
   <Project Path="40_TypePunning/40_TypePunning.vcxproj" Id="6c5a2674-130a-4df3-9764-d29cccc6fcb7" />
   <Project Path="41_Unions/41_Unions.vcxproj" Id="77d584c7-e8a9-49e5-858c-f53d6c36d5ef" />
   <Project Path="42_VirtualDestructors/42_VirtualDestructors.vcxproj" Id="65d6581d-bb98-4499-879f-3456c6c939b0" />
+  <Project Path="43_Casting/43_Casting.vcxproj" Id="9ef81e58-6747-4959-96cf-ee18d5eb772a" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
