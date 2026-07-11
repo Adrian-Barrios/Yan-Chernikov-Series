@@ -59,5 +59,6 @@
   <Project Path="54_lvaluesAndrvalues/54_lvaluesAndrvalues.vcxproj" Id="72a23abf-d023-4130-a088-bb51b4a4021c" />
   <Project Path="55_ArgumentEvaluationOrder/55_ArgumentEvaluationOrder.vcxproj" Id="72506877-7132-4cb5-958a-ad0afb5424e9" />
   <Project Path="56_MoveSemantics/56_MoveSemantics.vcxproj" Id="9d394b46-ccdc-4e3d-9152-d355faf3c319" />
+  <Project Path="57_stdMoveAndMoveAssignment/57_stdMoveAndMoveAssignment.vcxproj" Id="5fd76682-eb9f-45e8-8ce1-fb8435e81d1a" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
