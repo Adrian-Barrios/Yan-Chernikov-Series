@@ -54,5 +54,6 @@
   <Project Path="49_STDAny/49_STDAny.vcxproj" Id="39b1136a-459b-45df-92a8-36cb46249270" />
   <Project Path="50_FasterStrings/50_FasterStrings.vcxproj" Id="660c6274-7081-4988-b07b-ba155510bf68" />
   <Project Path="51_Singletons/51_Singletons.vcxproj" Id="72157125-484c-480f-a49f-f17f50607dfa" />
+  <Project Path="52_SmallStringOptimization/52_SmallStringOptimization.vcxproj" Id="9a888cf4-6a68-4161-8b8f-4d2269bde301" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
