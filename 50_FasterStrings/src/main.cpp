@@ -24,7 +24,7 @@ void PrintViewName(std::string_view s)
 
 int main()
 {
-#if 0
+#if 0 
 	std::string name = "Adrian Barrios"; // 1 allocation in debug mode
 	std::string firstName = name.substr(0, 6); // 2nd allocation
 	std::string lastName = name.substr(7, 14); // 3rd allocation
