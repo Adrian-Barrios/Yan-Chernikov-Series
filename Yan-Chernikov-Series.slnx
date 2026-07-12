@@ -62,5 +62,6 @@
   <Project Path="57_stdMoveAndMoveAssignment/57_stdMoveAndMoveAssignment.vcxproj" Id="5fd76682-eb9f-45e8-8ce1-fb8435e81d1a" />
   <Project Path="58_Iterators/58_Iterators.vcxproj" Id="98164508-7452-4373-b15e-78d460bb313a" />
   <Project Path="59_BinaryAndBitwiseOperators/59_BinaryAndBitwiseOperators.vcxproj" Id="35a6d75d-ab20-4dcf-a94e-386495215bb9" />
+  <Project Path="60_Maps/60_Maps.vcxproj" Id="240e700a-b4db-4877-903d-3ff859cb1ee4" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
