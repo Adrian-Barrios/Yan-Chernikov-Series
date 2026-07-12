@@ -64,5 +64,6 @@
   <Project Path="59_BinaryAndBitwiseOperators/59_BinaryAndBitwiseOperators.vcxproj" Id="35a6d75d-ab20-4dcf-a94e-386495215bb9" />
   <Project Path="60_Maps/60_Maps.vcxproj" Id="240e700a-b4db-4877-903d-3ff859cb1ee4" />
   <Project Path="61_ConversionOperators/61_ConversionOperators.vcxproj" Id="968e12dd-0743-43b2-97b5-a1b19b03212e" />
+  <Project Path="62_weakPointers/62_weakPointers.vcxproj" Id="5a3e315d-3162-48d5-9829-d3478544f6e3" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>

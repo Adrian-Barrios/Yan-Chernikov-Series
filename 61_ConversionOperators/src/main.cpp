@@ -28,7 +28,7 @@ struct Entity
 
 void ProcessEntity(Entity* e)
 {
-	if (e)
+	if (e) 
 	{
 		// ... 
 	}
