@@ -20,9 +20,21 @@ int main()
 
 	shrinkable.shrink_to_fit();
 	std::cout << "Shrinkable original 10. After shrink to fit: " << shrinkable.capacity();
+	std::cout << std::endl;
 
 	// Class argument template deduction (CTAD) introduced in C++17
 	std::vector fv{ 1.2f,3.2f,5.5f };
+
+	fv.erase(fv.end() - 1); // Will delete 5.5
+	for (auto elem : fv)
+	{
+		std::cout << elem << std::endl;
+	}
+
+	for (std::vector<float>::iterator it = fv.begin(); it != fv.end(); it++)
+	{
+		std::cout << *it << std::endl;
+	}
 
 
 }
