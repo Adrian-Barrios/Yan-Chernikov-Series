@@ -67,5 +67,6 @@
   <Project Path="62_weakPointers/62_weakPointers.vcxproj" Id="5a3e315d-3162-48d5-9829-d3478544f6e3" />
   <Project Path="63_stdArray/63_stdArray.vcxproj" Id="08edea2d-5ad5-4d9d-9b7d-77f38bc587a8" />
   <Project Path="64_stdVector/64_stdVector.vcxproj" Id="06a7c470-9cb4-49c1-bf2a-8203e11c7f4b" />
+  <Project Path="65_stdList/65_stdList.vcxproj" Id="de0f43bd-97f1-4221-b90f-b3442c4a171d" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
