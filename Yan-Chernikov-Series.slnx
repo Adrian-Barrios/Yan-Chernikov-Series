@@ -69,5 +69,6 @@
   <Project Path="64_stdVector/64_stdVector.vcxproj" Id="06a7c470-9cb4-49c1-bf2a-8203e11c7f4b" />
   <Project Path="65_stdList/65_stdList.vcxproj" Id="de0f43bd-97f1-4221-b90f-b3442c4a171d" />
   <Project Path="66_stdDeque/66_stdDeque.vcxproj" Id="4da867c5-8a7d-41a5-b538-e342a6865dc3" />
+  <Project Path="67_stdSet/67_stdSet.vcxproj" Id="7bccf923-d641-45fd-ac7f-0815b7a5b228" />
   <Project Path="Enums/Enums.vcxproj" Id="59e1ef2c-4f5d-438e-8e9a-330cadd19004" />
 </Solution>
